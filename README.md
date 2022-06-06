@@ -1,2 +1,2 @@
 # splinefitting
-fitting uniform b-spline to points
+fitting uniform b-spline to point
